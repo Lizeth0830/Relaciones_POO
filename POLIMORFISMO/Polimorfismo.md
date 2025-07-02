@@ -1,2 +1,2 @@
-![img](mapaconceptual.png)
-![alt text](diagrmaUML.png)
+![img](mapaconceptual_.png)
+![alt text](diagrmaUML_.png)
